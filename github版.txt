@@ -1,0 +1,9 @@
+github版
+
+cd "C:\Users\akane\Desktop\doko_eiku_melos_streamlit"
+
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run melos_app.py
